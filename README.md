@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlyinPancake
-- 👀 I’m interested in software and networks development
+- 👀 I’m interested in software development and running apps in the cloud
 - 🌱 I’m currently learning computer engineering at BME
 - 📫 You can reach me right here on GH
 
