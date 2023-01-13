@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlyinPancake
 - 🧑‍💼 I'm working at @Respray in server-side / edge python 🐍 development
 - 👀 I’m currently learning rust 🦀 and container orchestration 🐋
-- 🌱 I’m currently learning computer engineering at [BME](https://bme.hu)
+- 🌱 I’m currently learning computer engineering at [Budapest University of Technology](https://bme.hu)
 - 📫 You can reach me at flyinpancake@pm.me
 
 <!---
